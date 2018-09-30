@@ -1,0 +1,23 @@
+---
+title: "Homework"
+author: "田弘華"
+date: "2018/10/01"
+output:html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+##作業一
+
+這是**作業一**的題，下面則是*指令*。
+
+
+```{r}
+1+1
+
+1+1+2+2+3+3
+```
+
