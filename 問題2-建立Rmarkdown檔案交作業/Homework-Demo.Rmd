@@ -1,7 +1,7 @@
 ---
 title: "Homework"
 author: "田弘華"
-date: "2018/10/01"
+date:  "`r Sys.Date()`"
 output:html_document: default
 ---
 
@@ -21,3 +21,8 @@ knitr::opts_chunk$set(echo = TRUE)
 1+1+2+2+3+3
 ```
 
+# Code
+
+```{r ref.label = knitr::all_labels(), echo = TRUE, eval = FALSE}
+# this R markdown chunk generates a code appendix
+```
