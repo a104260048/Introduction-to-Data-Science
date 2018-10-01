@@ -19,7 +19,7 @@ devtools::install_github("rstudio/rticles")
 
 將Rstudio中Rmarkdown的文件範例，改為下面的Rmarkdown作業格式輸出。 <https://github.com/alexpghayes/rmarkdown_homework_template>
 
-關鍵在範例程式的最後面：
+答案關鍵在範例程式的最後面，亦即加上下面指令即可：
 
 # Code
 
