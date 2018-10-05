@@ -1,0 +1,46 @@
+---
+title: "Market Structure"
+output:
+  html_document:
+    df_print: paged
+---
+
+***
+---
+
+### 第三部分	市場結構
+
+#### Monopoly
+
+[PDF-獨佔市場](./Handouts/PPT/Unit7.pdf) 
+
+***
+
+#### Pricing and Advertising
+
+[PDF-獨佔定價](./Handouts/PPT/Unit8.pdf) 
+
+***
+
+#### Oligopoly and Monopolistic Competition
+
+[PDF-寡占市場](./Handouts/PPT/Unit9.pdf) 
+
+***
+
+#### 挑戰案例
+
+- Case 7: Brand-Name and Generic Drugs
+- Case 8: Sale Prices
+- Case 9: Government Aircraft Subsidies
+
+***
+---
+
+- 個案研究：專利與俗名藥
+- 如是我聞：高等教育的差別取價
+- 個案研究：廣告與眼鏡價格
+- 個案研究：石油輸出國家組織與全球石油市場
+- 個案研究：一通違法的電話
+- 個案研究：微軟案
+- 個案研究：歐洲對谷歌
